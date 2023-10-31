@@ -22,7 +22,7 @@ export default function IndexPage() {
   const [prediction, setPrediction] = useState(null);
   const [isModelReady, setModelReady] = useState(false);
 
-  const csvUrl = 'https://raw.githubusercontent.com/carrycooldude/Talks/main/data/IPL.csv';
+  const csvUrl = 'https://tfjs-ipl.vercel.app/iplfake.csv';
 
   const encodeTeamNames = (data, vocab) => data.map(d => vocab.indexOf(d));
 
@@ -61,8 +61,6 @@ export default function IndexPage() {
 
       // Extract data from the dataset
       const dataArray = await csvDataset.toArray();
-
-      console.log("DataArray", dataArray);
 
       // Extract team names and results
       const team1_names = dataArray.map(row => row['team1_name']);

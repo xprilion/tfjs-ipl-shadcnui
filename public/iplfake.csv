@@ -1,0 +1,101 @@
+match_number,team1_name,team2_name,team1_score,team2_score,result
+1,Mumbai Indians,Chennai Super Kings,185,180,Mumbai Indians
+2,Royal Challengers Bangalore,Kolkata Knight Riders,170,160,Royal Challengers Bangalore
+3,Delhi Capitals,Sunrisers Hyderabad,160,155,Delhi Capitals
+4,Rajasthan Royals,Punjab Kings,175,165,Rajasthan Royals
+5,Chennai Super Kings,Kolkata Knight Riders,180,175,Chennai Super Kings
+6,Mumbai Indians,Royal Challengers Bangalore,190,180,Mumbai Indians
+7,Delhi Capitals,Punjab Kings,170,165,Delhi Capitals
+8,Rajasthan Royals,Sunrisers Hyderabad,160,155,Rajasthan Royals
+9,Kolkata Knight Riders,Punjab Kings,175,170,Kolkata Knight Riders
+10,Mumbai Indians,Sunrisers Hyderabad,185,175,Mumbai Indians
+11,Royal Challengers Bangalore,Rajasthan Royals,180,170,Royal Challengers Bangalore
+12,Delhi Capitals,Chennai Super Kings,165,160,Delhi Capitals
+13,Punjab Kings,Kolkata Knight Riders,170,165,Punjab Kings
+14,Rajasthan Royals,Mumbai Indians,180,175,Rajasthan Royals
+15,Sunrisers Hyderabad,Royal Challengers Bangalore,165,160,Sunrisers Hyderabad
+16,Chennai Super Kings,Delhi Capitals,170,165,Chennai Super Kings
+17,Kolkata Knight Riders,Mumbai Indians,175,170,Kolkata Knight Riders
+18,Punjab Kings,Rajasthan Royals,165,160,Punjab Kings
+19,Sunrisers Hyderabad,Chennai Super Kings,160,155,Sunrisers Hyderabad
+20,Royal Challengers Bangalore,Delhi Capitals,175,170,Royal Challengers Bangalore
+21,Mumbai Indians,Punjab Kings,180,175,Mumbai Indians
+22,Rajasthan Royals,Kolkata Knight Riders,165,160,Rajasthan Royals
+23,Chennai Super Kings,Royal Challengers Bangalore,170,165,Chennai Super Kings
+24,Delhi Capitals,Sunrisers Hyderabad,160,155,Delhi Capitals
+25,Kolkata Knight Riders,Rajasthan Royals,175,170,Kolkata Knight Riders
+26,Mumbai Indians,Chennai Super Kings,185,180,Mumbai Indians
+27,Punjab Kings,Sunrisers Hyderabad,170,165,Punjab Kings
+28,Royal Challengers Bangalore,Kolkata Knight Riders,175,170,Royal Challengers Bangalore
+29,Rajasthan Royals,Delhi Capitals,160,155,Rajasthan Royals
+30,Chennai Super Kings,Punjab Kings,170,165,Chennai Super Kings
+31,Mumbai Indians,Sunrisers Hyderabad,180,175,Mumbai Indians
+32,Kolkata Knight Riders,Royal Challengers Bangalore,165,160,Kolkata Knight Riders
+33,Delhi Capitals,Rajasthan Royals,160,155,Delhi Capitals
+34,Sunrisers Hyderabad,Chennai Super Kings,165,160,Sunrisers Hyderabad
+35,Punjab Kings,Mumbai Indians,175,170,Punjab Kings
+36,Royal Challengers Bangalore,Rajasthan Royals,170,165,Royal Challengers Bangalore
+37,Kolkata Knight Riders,Delhi Capitals,160,155,Kolkata Knight Riders
+38,Chennai Super Kings,Mumbai Indians,180,175,Chennai Super Kings
+39,Rajasthan Royals,Sunrisers Hyderabad,165,160,Rajasthan Royals
+40,Punjab Kings,Kolkata Knight Riders,170,165,Punjab Kings
+41,Royal Challengers Bangalore,Mumbai Indians,175,170,Royal Challengers Bangalore
+42,Delhi Capitals,Chennai Super Kings,160,155,Delhi Capitals
+43,Sunrisers Hyderabad,Rajasthan Royals,165,160,Sunrisers Hyderabad
+44,Kolkata Knight Riders,Punjab Kings,175,170,Kolkata Knight Riders
+45,Mumbai Indians,Royal Challengers Bangalore,180,175,Mumbai Indians
+46,Rajasthan Royals,Delhi Capitals,160,155,Rajasthan Royals
+47,Chennai Super Kings,Kolkata Knight Riders,170,165,Chennai Super Kings
+48,Punjab Kings,Sunrisers Hyderabad,165,160,Punjab Kings
+49,Mumbai Indians,Rajasthan Royals,185,180,Mumbai Indians
+50,Royal Challengers Bangalore,Sunrisers Hyderabad,170,165,Royal Challengers Bangalore
+51,Kolkata Knight Riders,Delhi Capitals,160,155,Kolkata Knight Riders
+52,Chennai Super Kings,Punjab Kings,170,165,Chennai Super Kings
+53,Rajasthan Royals,Mumbai Indians,180,175,Rajasthan Royals
+54,Sunrisers Hyderabad,Royal Challengers Bangalore,165,160,Sunrisers Hyderabad
+55,Delhi Capitals,Chennai Super Kings,160,155,Delhi Capitals
+56,Punjab Kings,Kolkata Knight Riders,170,165,Punjab Kings
+57,Mumbai Indians,Sunrisers Hyderabad,185,180,Mumbai Indians
+58,Royal Challengers Bangalore,Rajasthan Royals,180,170,Royal Challengers Bangalore
+59,Delhi Capitals,Punjab Kings,170,165,Delhi Capitals
+60,Chennai Super Kings,Rajasthan Royals,160,155,Chennai Super Kings
+61,Kolkata Knight Riders,Mumbai Indians,175,170,Kolkata Knight Riders
+62,Sunrisers Hyderabad,Royal Challengers Bangalore,165,160,Sunrisers Hyderabad
+63,Punjab Kings,Delhi Capitals,165,160,Punjab Kings
+64,Rajasthan Royals,Chennai Super Kings,160,155,Rajasthan Royals
+65,Mumbai Indians,Kolkata Knight Riders,180,175,Mumbai Indians
+66,Royal Challengers Bangalore,Sunrisers Hyderabad,170,165,Royal Challengers Bangalore
+67,Delhi Capitals,Rajasthan Royals,160,155,Delhi Capitals
+68,Chennai Super Kings,Punjab Kings,170,165,Chennai Super Kings
+69,Kolkata Knight Riders,Sunrisers Hyderabad,175,170,Kolkata Knight Riders
+70,Mumbai Indians,Royal Challengers Bangalore,190,180,Mumbai Indians
+71,Rajasthan Royals,Delhi Capitals,165,160,Rajasthan Royals
+72,Chennai Super Kings,Kolkata Knight Riders,170,165,Chennai Super Kings
+73,Punjab Kings,Sunrisers Hyderabad,165,160,Punjab Kings
+74,Mumbai Indians,Rajasthan Royals,185,180,Mumbai Indians
+75,Royal Challengers Bangalore,Chennai Super Kings,180,170,Royal Challengers Bangalore
+76,Delhi Capitals,Kolkata Knight Riders,160,155,Delhi Capitals
+77,Sunrisers Hyderabad,Punjab Kings,165,160,Sunrisers Hyderabad
+78,Rajasthan Royals,Mumbai Indians,180,175,Rajasthan Royals
+79,Chennai Super Kings,Royal Challengers Bangalore,170,165,Chennai Super Kings
+80,Kolkata Knight Riders,Delhi Capitals,160,155,Kolkata Knight Riders
+81,Punjab Kings,Mumbai Indians,175,170,Punjab Kings
+82,Sunrisers Hyderabad,Rajasthan Royals,165,160,Sunrisers Hyderabad
+83,Royal Challengers Bangalore,Kolkata Knight Riders,170,165,Royal Challengers Bangalore
+84,Delhi Capitals,Chennai Super Kings,160,155,Delhi Capitals
+85,Rajasthan Royals,Punjab Kings,165,160,Rajasthan Royals
+86,Mumbai Indians,Sunrisers Hyderabad,185,180,Mumbai Indians
+87,Chennai Super Kings,Kolkata Knight Riders,170,165,Chennai Super Kings
+88,Royal Challengers Bangalore,Rajasthan Royals,180,170,Royal Challengers Bangalore
+89,Delhi Capitals,Punjab Kings,170,165,Delhi Capitals
+90,Kolkata Knight Riders,Mumbai Indians,175,170,Kolkata Knight Riders
+91,Sunrisers Hyderabad,Royal Challengers Bangalore,165,160,Sunrisers Hyderabad
+92,Chennai Super Kings,Delhi Capitals,170,165,Chennai Super Kings
+93,Rajasthan Royals,Kolkata Knight Riders,165,160,Rajasthan Royals
+94,Punjab Kings,Sunrisers Hyderabad,170,165,Punjab Kings
+95,Mumbai Indians,Chennai Super Kings,185,180,Mumbai Indians
+96,Royal Challengers Bangalore,Delhi Capitals,180,170,Royal Challengers Bangalore
+97,Kolkata Knight Riders,Punjab Kings,175,170,Kolkata Knight Riders
+98,Rajasthan Royals,Sunrisers Hyderabad,165,160,Rajasthan Royals
+99,Chennai Super Kings,Mumbai Indians,170,165,Chennai Super Kings
+100,Delhi Capitals,Royal Challengers Bangalore,160,155,Delhi Capitals
